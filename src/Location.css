@@ -1051,6 +1051,10 @@ input[type="radio"]  {
   top: 52%;
   font-size: 14px;
 }
+.show :hover{
+  background-color: #212529;
+  font-weight: bold;
+}
 .order{
   position: relative;
   bottom: 65% !important;
